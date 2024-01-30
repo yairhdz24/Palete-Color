@@ -1,6 +1,6 @@
 # 🎨 Generador de Paletas de Colores
 
-Este proyecto es un simple generador de paletas de colores creado con HTML, CSS y JavaScript. También incluye botones para compartir en redes sociales.
+Este proyecto es un simple generador de paletas de colores creado con HTML, CSS y JavaScript.
 
 ## 🚀 Demostración
 
